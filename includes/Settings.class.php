@@ -755,7 +755,7 @@ Sorry, we could not accomodate your booking request. We\'re full or not open at 
 
 			// Reservation details fieldset
 			'reservation'	=> array(
-				'legend'	=> __( 'Book a table', 'restaurant-reservations' ),
+				'legend'	=> __( 'Book a SUP', 'restaurant-reservations' ),
 				'fields'	=> array(
 					'date'		=> array(
 						'title'			=> __( 'Date', 'restaurant-reservations' ),
